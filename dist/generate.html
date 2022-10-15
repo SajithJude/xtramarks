@@ -324,7 +324,7 @@
     //   $modellink.href = `https://huggingface.co/${modelId}`;
     //   $modellink.innerText = modelId;
 
-      tokenizer = await AutoTokenizer.fromPretrained(modelId, "xtramarks/dist/models");
+      tokenizer = await AutoTokenizer.fromPretrained(modelId, "dist/models");
       console.log(tokenizer);
       model = await T5ForConditionalGeneration.fromPretrained(modelId, "xtramarks/dist/models", async function (progress) {
           const message = `Loading the neural network... ${Math.round(progress * 100)}%`;
