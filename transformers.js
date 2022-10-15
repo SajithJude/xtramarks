@@ -24,9 +24,9 @@ class AutoModelForSeq2SeqLM extends PretrainedModel {
         const modelIdParts = modelId.split('/');
         const modelName = modelIdParts[modelIdParts.length - 1];
         const suffix = "-quantized";
-        const encoderUrl = `t5_squad_v1-encoder-quantized.onnx`;
-        const initDecoderUrl = `t5_squad_v1-init-decoder-quantized.onnx`;
-        const decoderUrl = `t5_squad_v1-decoder-quantized.onnx`;
+        const encoderUrl = "./t5_squad_v1-encoder-quantized.onnx";
+        const initDecoderUrl = "./t5_squad_v1-init-decoder-quantized.onnx";
+        const decoderUrl = "./t5_squad_v1-decoder-quantized.onnx";
 
         const progressMax = 4;
         let progress = 0;
