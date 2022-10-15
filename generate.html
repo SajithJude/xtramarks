@@ -327,7 +327,7 @@
 
       tokenizer = await AutoTokenizer.fromPretrained(modelId, "");
       console.log(tokenizer);
-      model = await T5ForConditionalGeneration.fromPretrained(modelId, "../", async function (progress) {
+      model = await T5ForConditionalGeneration.fromPretrained(modelId, "https://sajithjude.github.io/xtramarks", async function (progress) {
           const message = `Loading the neural network... ${Math.round(progress * 100)}%`;
           $status.innerText = message;
           $output.innerText = message;
