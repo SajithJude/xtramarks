@@ -21,7 +21,7 @@ class AutoModelForSeq2SeqLM extends PretrainedModel {
     static async fromPretrained(modelId, modelsPath, progressAsyncCallback) {
         // TODO: This should load different model types. Right now it's hardcoded to T5.
 
-        const modelIdParts = modelId.split('/');
+        const modelIdParts = modelId.split('');
         const modelName = modelIdParts[modelIdParts.length - 1];
         const suffix = "-quantized";
         const encoderUrl = `${modelsPath}${modelName}-encoder${suffix}.onnx`;
