@@ -1,0 +1,751 @@
+{
+ "physics_notes": [
+  {
+   "notes": "<a href=\"https://www.cbselabs.com/cbse-notes-class-12-physics/\">Class 12 Physics Notes</a> students can refer to the Communication Systems Class 12 Notes Chapter 15 https://www.cbselabs.com/communication-systems-cbse-notes-class-12-physics/ Pdf here. They can also access the CBSE Class 12 Communication Systems Chapter 15 Notes while gearing up for their Board exams."
+  },
+  {
+   "notes": "Class 12 Physics Notes"
+  },
+  {
+   "notes": "Communication Systems Class 12 Notes Chapter 15"
+  },
+  {
+   "notes": "<span style=\"color: #0000ff;\"><strong>Topic 1 Communication</strong></span>"
+  },
+  {
+   "notes": "<strong>Topic 1 Communication</strong>"
+  },
+  {
+   "notes": "Topic 1 Communication"
+  },
+  {
+   "notes": "<strong>Communication System Class 12 Chapter 15</strong>"
+  },
+  {
+   "notes": "Communication System Class 12 Chapter 15"
+  },
+  {
+   "notes": "<strong>1. Communication</strong> Communication is the act of transmission and reception of information.<br>\n<strong>2. Communication System</strong> A system comprises of transmitter, communication channel and receiver.<br>\nA block diagram of a generalised communication system is shown as below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175146 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?resize=589%2C98&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 1\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?w=589&amp;ssl=1 589w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?resize=300%2C50&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 589px) 100vw, 589px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?resize=589%2C98&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"589\" height=\"98\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175146\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?resize=589%2C98&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 1\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?w=589&amp;ssl=1 589w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?resize=300%2C50&amp;ssl=1 300w\" sizes=\"(max-width: 589px) 100vw, 589px\" data-recalc-dims=\"1\" width=\"589\" height=\"98\"></noscript><br>\n<strong>3. Transmitter</strong> It consists of transducer/signal generators, modulators and transmitting antenna.<br>\n<strong>4. Receiver</strong> Its main function is to decode the original signals. The main function involves picking up the signals, demodulating and displace the original message signal."
+  },
+  {
+   "notes": "1. Communication"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "2. Communication System"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175146\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?resize=589%2C98&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 1\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?w=589&amp;ssl=1 589w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-1-1.png?resize=300%2C50&amp;ssl=1 300w\" sizes=\"(max-width: 589px) 100vw, 589px\" data-recalc-dims=\"1\" width=\"589\" height=\"98\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "3. Transmitter"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "4. Receiver"
+  },
+  {
+   "notes": "<strong>Communication System Class 12 Notes Chapter 15</strong>"
+  },
+  {
+   "notes": "Communication System Class 12 Notes Chapter 15"
+  },
+  {
+   "notes": "<strong>5. Communication Channel</strong> The physical path between the transmitter and receiver is known as communication channel. They are of two types namely<br>\n(i) Guided (point-to-point) (ii) Unguided<br>\n<strong>6. Bandwidth of Communication Channel</strong> The range of frequencies used to pass through channel is known as bandwidth.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175147 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?resize=449%2C51&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 2\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?w=449&amp;ssl=1 449w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?resize=300%2C34&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 449px) 100vw, 449px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?resize=449%2C51&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"449\" height=\"51\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175147\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?resize=449%2C51&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 2\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?w=449&amp;ssl=1 449w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?resize=300%2C34&amp;ssl=1 300w\" sizes=\"(max-width: 449px) 100vw, 449px\" data-recalc-dims=\"1\" width=\"449\" height=\"51\"></noscript><br>\n<strong>7.</strong> The following table shows the various things used in communication system.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175148 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?resize=573%2C242&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 3\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?w=573&amp;ssl=1 573w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?resize=300%2C127&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 573px) 100vw, 573px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?resize=573%2C242&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"573\" height=\"242\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175148\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?resize=573%2C242&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 3\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?w=573&amp;ssl=1 573w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?resize=300%2C127&amp;ssl=1 300w\" sizes=\"(max-width: 573px) 100vw, 573px\" data-recalc-dims=\"1\" width=\"573\" height=\"242\"></noscript>"
+  },
+  {
+   "notes": "5. Communication Channel"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "6. Bandwidth of Communication Channel"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175147\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?resize=449%2C51&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 2\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?w=449&amp;ssl=1 449w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-2.png?resize=300%2C34&amp;ssl=1 300w\" sizes=\"(max-width: 449px) 100vw, 449px\" data-recalc-dims=\"1\" width=\"449\" height=\"51\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "7."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175148\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?resize=573%2C242&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 3\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?w=573&amp;ssl=1 573w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-3.png?resize=300%2C127&amp;ssl=1 300w\" sizes=\"(max-width: 573px) 100vw, 573px\" data-recalc-dims=\"1\" width=\"573\" height=\"242\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>Communication System Notes Chapter 15 Class 12</strong>"
+  },
+  {
+   "notes": "Communication System Notes Chapter 15 Class 12"
+  },
+  {
+   "notes": "<strong>8.</strong> There are two basic modes of communication given as below:<br>\n<strong>(i) Point-to-point</strong> In this type of communication mode, communication takes place over a link between a signal transmitter and a receiver, e.g. telephony.<br>\n<strong>(ii) Broadcast</strong> In the broadcast mode, there are a large number of receivers corresponding to a signal transmitter, e.g. radio and TV.<br>\n<strong>9. Basic Terminology used in Electronic Communication Systems</strong><br>\n<strong>(i) Signal</strong> Information converted into electrical form and suitable for transmission is called a signal.<br>\n<strong>(ii) Transducer</strong> Any device/arrangement that converts one form of energy into another is called a transducer, e.g. microphone.<br>\n<strong>(iii) Noise</strong> It refers to the unwanted signals that tends to disturb the transmission and processing of message signals in communication system.<br>\n<strong>(iv) Attenuation</strong> It refers to the loss of strength of a signal during its propagation through the communication channel.<br>\n<strong>(v) Amplification</strong> It is the process by which amplitude of a signal is increased using an electronic circuit called the amplifier.<br>\n<strong>(vi) Range</strong> It is the largest distance between a source and a destination up to which the signal is received with sufficient strength.<br>\n<strong>(vii) Baseband</strong> Band of frequencies representing the original signal is called baseband.<br>\n<strong>(viii) Repeater</strong> Repeaters are erected at suitable distances between the transmitter and receiver. Repeaters are used to extend the range of a communication system."
+  },
+  {
+   "notes": "8."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Point-to-point"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Broadcast"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "9. Basic Terminology used in Electronic Communication Systems"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Signal"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Transducer"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(iii) Noise"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(iv) Attenuation"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(v) Amplification"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(vi) Range"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(vii) Baseband"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(viii) Repeater"
+  },
+  {
+   "notes": "<strong>Communication Class 12 Chapter 15&nbsp;</strong>"
+  },
+  {
+   "notes": "Communication Class 12 Chapter 15&nbsp;"
+  },
+  {
+   "notes": "<strong>10. Message Signals</strong> A time varying electrical signal generated by a transducer out of original signal is termed as message signal.<br>\nThe electrical signals are of two types such as below:<br>\n<strong>(i) Analog signal</strong> A continuous signal value which at any instant lies within the range of a maximum and a minimum value.<br>\nGraphical representation of analog signal can be represented as given below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175149 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?resize=376%2C154&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 4\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?w=376&amp;ssl=1 376w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?resize=300%2C123&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 376px) 100vw, 376px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?resize=376%2C154&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"376\" height=\"154\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175149\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?resize=376%2C154&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 4\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?w=376&amp;ssl=1 376w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?resize=300%2C123&amp;ssl=1 300w\" sizes=\"(max-width: 376px) 100vw, 376px\" data-recalc-dims=\"1\" width=\"376\" height=\"154\"></noscript><br>\n<strong>(ii) Digital Signal (Pulse Signal)</strong> Digital signals are those which can take only discrete stepwise values e.g. output of a computer, fax, etc.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175150 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?resize=431%2C125&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 5\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?w=431&amp;ssl=1 431w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?resize=300%2C87&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 431px) 100vw, 431px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?resize=431%2C125&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"431\" height=\"125\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175150\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?resize=431%2C125&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 5\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?w=431&amp;ssl=1 431w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?resize=300%2C87&amp;ssl=1 300w\" sizes=\"(max-width: 431px) 100vw, 431px\" data-recalc-dims=\"1\" width=\"431\" height=\"125\"></noscript><br>\n<strong>11.</strong> Coding schemes used for digital communication are given as below:<br>\n<strong>(i) Binary Coded Decimal</strong> (BCD) In this, a digit is represented by two binary numbers 0 or 1.<br>\n<strong>(ii) American Standard Code for Information Interchange</strong> (ASCII) It is a universally popular digital code to represent numbers, letters and certain characters."
+  },
+  {
+   "notes": "10. Message Signals"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Analog signal"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175149\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?resize=376%2C154&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 4\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?w=376&amp;ssl=1 376w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-4.png?resize=300%2C123&amp;ssl=1 300w\" sizes=\"(max-width: 376px) 100vw, 376px\" data-recalc-dims=\"1\" width=\"376\" height=\"154\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Digital Signal (Pulse Signal)"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175150\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?resize=431%2C125&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 5\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?w=431&amp;ssl=1 431w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-5.png?resize=300%2C87&amp;ssl=1 300w\" sizes=\"(max-width: 431px) 100vw, 431px\" data-recalc-dims=\"1\" width=\"431\" height=\"125\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "11."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Binary Coded Decimal"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) American Standard Code for Information Interchange"
+  },
+  {
+   "notes": "<strong>Communication System Class 12 Formulas Chapter 15</strong>"
+  },
+  {
+   "notes": "Communication System Class 12 Formulas Chapter 15"
+  },
+  {
+   "notes": "<strong>12. Bandwidth of Signals</strong> Bandwidth of signal is defined as the difference between the upper and lower frequencies of signal. In a communication system, the message signal can be voice, music, picture or computer data. This has been shown in the table given as below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175151 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?resize=369%2C141&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 6\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?w=369&amp;ssl=1 369w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?resize=300%2C115&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 369px) 100vw, 369px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?resize=369%2C141&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"369\" height=\"141\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175151\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?resize=369%2C141&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 6\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?w=369&amp;ssl=1 369w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?resize=300%2C115&amp;ssl=1 300w\" sizes=\"(max-width: 369px) 100vw, 369px\" data-recalc-dims=\"1\" width=\"369\" height=\"141\"></noscript><br>\n<strong> 13. Bandwidth of Transmission Medium</strong> The commonly used transmission media are wire, free space, fibre optic cable (750 MHz ) and optical fibre (100 GHz.)<br>\nThis range is sub-divided further and allocated for various services as indicated in the table given as below:<br>\n<strong><img loading=\"lazy\" class=\"alignnone size-full wp-image-175152 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 7\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?w=498&amp;ssl=1 498w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=300%2C158&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 498px) 100vw, 498px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=498%2C263&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"498\" height=\"263\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175152\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 7\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?w=498&amp;ssl=1 498w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=300%2C158&amp;ssl=1 300w\" sizes=\"(max-width: 498px) 100vw, 498px\" data-recalc-dims=\"1\" width=\"498\" height=\"263\"></noscript><br>\nCommunication System Class 12 Notes Pdf Chapter 15</strong>"
+  },
+  {
+   "notes": "12. Bandwidth of Signals"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175151\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?resize=369%2C141&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 6\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?w=369&amp;ssl=1 369w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-6.png?resize=300%2C115&amp;ssl=1 300w\" sizes=\"(max-width: 369px) 100vw, 369px\" data-recalc-dims=\"1\" width=\"369\" height=\"141\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": " 13. Bandwidth of Transmission Medium"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175152 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 7\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?w=498&amp;ssl=1 498w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=300%2C158&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 498px) 100vw, 498px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=498%2C263&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"498\" height=\"263\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175152\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 7\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?w=498&amp;ssl=1 498w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=300%2C158&amp;ssl=1 300w\" sizes=\"(max-width: 498px) 100vw, 498px\" data-recalc-dims=\"1\" width=\"498\" height=\"263\"></noscript><br>\nCommunication System Class 12 Notes Pdf Chapter 15"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175152\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 7\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?w=498&amp;ssl=1 498w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-7.png?resize=300%2C158&amp;ssl=1 300w\" sizes=\"(max-width: 498px) 100vw, 498px\" data-recalc-dims=\"1\" width=\"498\" height=\"263\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>14. Antenna</strong> Antenna is a device which acts as an emitter of electromagnetic waves and it also acts as a first receiver of energy. It is generally a metallic object often a wire or collection of wires.<br>\n<strong>(i) Hertz Antenna</strong> It is a straight conductor of length equal to half the wavelength of radio signals to be transmitted or received.<br>\ni.e, l = λ/2<br>\n<strong>(ii) Marconi Antenna</strong> It is a straight conductor of length equal to a quarter of the wavelength of radio signals to be transmitted of received, i.e. l = λ/4<br>\n<strong>(iii) Dipole Antenna</strong> It is used in transmission of radio waves. It is omni directional.<br>\n<strong>(iv) Dish-Type Antenna</strong> It is a directional antenna. Such antenna has a parabolic reflector with an active element.<br>\n<strong>15. Propagation of Electromagnetic Waves</strong> In communication using radio waves, an antenna at the transmitter radiates the EM waves, which travel through the space and reach the receiver at the other end."
+  },
+  {
+   "notes": "14. Antenna"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Hertz Antenna"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Marconi Antenna"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(iii) Dipole Antenna"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(iv) Dish-Type Antenna"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "15. Propagation of Electromagnetic Waves"
+  },
+  {
+   "notes": "<strong>Class 12 Physics Chapter 15 Notes </strong>"
+  },
+  {
+   "notes": "Class 12 Physics Chapter 15 Notes "
+  },
+  {
+   "notes": "<strong>16.</strong> Depending upon frequency and ways of propagation, electromagnetic waves categorised as follows<br>\n<strong>(i) Ground Wave Propagation</strong> (f&lt; 2MHz) In ground wave propagation, the radio waves (AM) travel along the surface of the earth. These waves are guided along the earth surface and they follow the curvature of the earth.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175153 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 8\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?w=498&amp;ssl=1 498w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?resize=300%2C158&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 498px) 100vw, 498px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?resize=498%2C263&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"498\" height=\"263\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175153\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 8\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?w=498&amp;ssl=1 498w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?resize=300%2C158&amp;ssl=1 300w\" sizes=\"(max-width: 498px) 100vw, 498px\" data-recalc-dims=\"1\" width=\"498\" height=\"263\"></noscript><br>\n<strong>(ii) Sky Wave Propagation</strong> (2 MHz &lt; f &lt; 30 MHz) Long distance communication can be achieved by ionospheric reflection of radio waves back towards earth. This mode of propagation is called sky wave propagation and is used by short wave broadcast services. The ionosphere is so called because of the presence of a large number of ions. It extends from height of 65 km to about 400 km above the earth’s surface.<br>\nThe details are in the table as below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175154 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?resize=710%2C288&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 9\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?w=710&amp;ssl=1 710w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?resize=300%2C122&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 710px) 100vw, 710px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?resize=710%2C288&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"710\" height=\"288\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175154\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?resize=710%2C288&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 9\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?w=710&amp;ssl=1 710w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?resize=300%2C122&amp;ssl=1 300w\" sizes=\"(max-width: 710px) 100vw, 710px\" data-recalc-dims=\"1\" width=\"710\" height=\"288\"></noscript><br>\nThe density of atmosphere decreases with height.<br>\nThe ionospheric layer acts as a reflector for a certain range of frequencies. These phenomena are shown as below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175155 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?resize=311%2C348&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 10\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?w=311&amp;ssl=1 311w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?resize=268%2C300&amp;ssl=1 268w\" data-lazy-sizes=\"(max-width: 311px) 100vw, 311px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?resize=311%2C348&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"311\" height=\"348\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175155\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?resize=311%2C348&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 10\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?w=311&amp;ssl=1 311w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?resize=268%2C300&amp;ssl=1 268w\" sizes=\"(max-width: 311px) 100vw, 311px\" data-recalc-dims=\"1\" width=\"311\" height=\"348\"></noscript><br>\n<strong>(a) Maximum Usable Frequency</strong> (MUF) It is a limiting frequency, but for some specific angle of incidence other than the normal and is given by<br>\nMUF = f<sub>c</sub> secθ<br>\nwhere, θ is the angle between normal and the direction of incidence of waves.<br>\n<strong>(b) Skip Distance</strong> It is the shortest distance from a transmitter measured along the surface of earth at which a sky wave of fixed frequency c more than f<sub>c</sub> will be returned to earth.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175156 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?resize=413%2C110&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 11\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?w=413&amp;ssl=1 413w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?resize=300%2C80&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 413px) 100vw, 413px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?resize=413%2C110&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"413\" height=\"110\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175156\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?resize=413%2C110&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 11\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?w=413&amp;ssl=1 413w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?resize=300%2C80&amp;ssl=1 300w\" sizes=\"(max-width: 413px) 100vw, 413px\" data-recalc-dims=\"1\" width=\"413\" height=\"110\"></noscript>"
+  },
+  {
+   "notes": "16."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Ground Wave Propagation"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175153\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?resize=498%2C263&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 8\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?w=498&amp;ssl=1 498w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-8.png?resize=300%2C158&amp;ssl=1 300w\" sizes=\"(max-width: 498px) 100vw, 498px\" data-recalc-dims=\"1\" width=\"498\" height=\"263\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Sky Wave Propagation"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175154\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?resize=710%2C288&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 9\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?w=710&amp;ssl=1 710w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-9.png?resize=300%2C122&amp;ssl=1 300w\" sizes=\"(max-width: 710px) 100vw, 710px\" data-recalc-dims=\"1\" width=\"710\" height=\"288\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175155\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?resize=311%2C348&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 10\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?w=311&amp;ssl=1 311w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-10.png?resize=268%2C300&amp;ssl=1 268w\" sizes=\"(max-width: 311px) 100vw, 311px\" data-recalc-dims=\"1\" width=\"311\" height=\"348\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(a) Maximum Usable Frequency"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "c"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(b) Skip Distance"
+  },
+  {
+   "notes": "c"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175156\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?resize=413%2C110&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 11\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?w=413&amp;ssl=1 413w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-11.png?resize=300%2C80&amp;ssl=1 300w\" sizes=\"(max-width: 413px) 100vw, 413px\" data-recalc-dims=\"1\" width=\"413\" height=\"110\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>Class 12 Communication System Chapter 15</strong>"
+  },
+  {
+   "notes": "Class 12 Communication System Chapter 15"
+  },
+  {
+   "notes": "<strong>(c) Critical Frequency</strong> For a given layer, it is the highest frequency that will return down to earth by that layer.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175157 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?resize=458%2C73&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 12\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?w=458&amp;ssl=1 458w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?resize=300%2C48&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 458px) 100vw, 458px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?resize=458%2C73&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"458\" height=\"73\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175157\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?resize=458%2C73&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 12\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?w=458&amp;ssl=1 458w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?resize=300%2C48&amp;ssl=1 300w\" sizes=\"(max-width: 458px) 100vw, 458px\" data-recalc-dims=\"1\" width=\"458\" height=\"73\"></noscript><br>\n<strong>(iii) Space Wave Propagation (LoS)</strong> (f &gt; 30 MHz) A space wave travels in a straight line from transmitting anteiina to the receiving antenna.<br>\nSpace waves are used for Line-of-Sight (LoS) communication as well as satellite communication.<br>\nBecause of LoS nature of propagation, these waves are get blocked at some point by curvature of earth as shown below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175158 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-13.png?resize=241%2C113&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 13\" data-recalc-dims=\"1\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-13.png?resize=241%2C113&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"241\" height=\"113\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175158\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-13.png?resize=241%2C113&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 13\" data-recalc-dims=\"1\" width=\"241\" height=\"113\"></noscript><br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175159 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?resize=555%2C156&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 14\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?w=555&amp;ssl=1 555w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?resize=300%2C84&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 555px) 100vw, 555px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?resize=555%2C156&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"555\" height=\"156\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175159\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?resize=555%2C156&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 14\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?w=555&amp;ssl=1 555w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?resize=300%2C84&amp;ssl=1 300w\" sizes=\"(max-width: 555px) 100vw, 555px\" data-recalc-dims=\"1\" width=\"555\" height=\"156\"></noscript><br>\n<strong>17. Satellite Communication</strong> In this communication, frequency band 5.9 GHz to 6.4 GHz is used for uplinking and 3.7 GHz to 2 GHz is used for down linking."
+  },
+  {
+   "notes": "(c) Critical Frequency"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175157\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?resize=458%2C73&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 12\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?w=458&amp;ssl=1 458w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-12.png?resize=300%2C48&amp;ssl=1 300w\" sizes=\"(max-width: 458px) 100vw, 458px\" data-recalc-dims=\"1\" width=\"458\" height=\"73\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(iii) Space Wave Propagation (LoS)"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175158\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-13.png?resize=241%2C113&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 13\" data-recalc-dims=\"1\" width=\"241\" height=\"113\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175159\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?resize=555%2C156&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 14\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?w=555&amp;ssl=1 555w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-14.png?resize=300%2C84&amp;ssl=1 300w\" sizes=\"(max-width: 555px) 100vw, 555px\" data-recalc-dims=\"1\" width=\"555\" height=\"156\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "17. Satellite Communication"
+  },
+  {
+   "notes": "<strong><span style=\"color: #0000ff;\">Topic 2 Modulation</span></strong>"
+  },
+  {
+   "notes": "<span style=\"color: #0000ff;\">Topic 2 Modulation</span>"
+  },
+  {
+   "notes": "Topic 2 Modulation"
+  },
+  {
+   "notes": "<strong>1. Modulation</strong> Modulation is the process of variation of some characteristics of a carrier wave in accordance with the instantaneous value of a modulating signal.<br>\n<strong>2. Need for Modulation</strong> It is due to the fact that low frequency signal<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-174980 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?resize=644%2C92&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 15\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?w=644&amp;ssl=1 644w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?resize=300%2C43&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 644px) 100vw, 644px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?resize=644%2C92&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"644\" height=\"92\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-174980\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?resize=644%2C92&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 15\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?w=644&amp;ssl=1 644w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?resize=300%2C43&amp;ssl=1 300w\" sizes=\"(max-width: 644px) 100vw, 644px\" data-recalc-dims=\"1\" width=\"644\" height=\"92\"></noscript><br>\n<strong>3.</strong> Types of modulations<br>\n(i) Amplitude modulation (ii) Frequency modulation<br>\n(iii) Phase modulation (iv) Pulse modulation<br>\n<strong>4. Amplitude Modulation</strong> In amplitude modulation, the amplitude of the carrier is varied in accordance with the information signal.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175160 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?resize=522%2C203&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 16\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?w=522&amp;ssl=1 522w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?resize=300%2C117&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 522px) 100vw, 522px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?resize=522%2C203&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"522\" height=\"203\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175160\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?resize=522%2C203&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 16\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?w=522&amp;ssl=1 522w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?resize=300%2C117&amp;ssl=1 300w\" sizes=\"(max-width: 522px) 100vw, 522px\" data-recalc-dims=\"1\" width=\"522\" height=\"203\"></noscript><br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175161 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?resize=699%2C711&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 17\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?w=699&amp;ssl=1 699w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?resize=295%2C300&amp;ssl=1 295w\" data-lazy-sizes=\"(max-width: 699px) 100vw, 699px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?resize=699%2C711&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"699\" height=\"711\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175161\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?resize=699%2C711&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 17\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?w=699&amp;ssl=1 699w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?resize=295%2C300&amp;ssl=1 295w\" sizes=\"(max-width: 699px) 100vw, 699px\" data-recalc-dims=\"1\" width=\"699\" height=\"711\"></noscript><br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175162 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?resize=503%2C269&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 18\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?w=503&amp;ssl=1 503w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?resize=300%2C160&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 503px) 100vw, 503px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?resize=503%2C269&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"503\" height=\"269\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175162\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?resize=503%2C269&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 18\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?w=503&amp;ssl=1 503w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?resize=300%2C160&amp;ssl=1 300w\" sizes=\"(max-width: 503px) 100vw, 503px\" data-recalc-dims=\"1\" width=\"503\" height=\"269\"></noscript>"
+  },
+  {
+   "notes": "1. Modulation"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "2. Need for Modulation"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-174980\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?resize=644%2C92&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 15\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?w=644&amp;ssl=1 644w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/02/Communication-Systems-Class-12-Notes-Chapter-15-Img-15.png?resize=300%2C43&amp;ssl=1 300w\" sizes=\"(max-width: 644px) 100vw, 644px\" data-recalc-dims=\"1\" width=\"644\" height=\"92\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "3."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "4. Amplitude Modulation"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175160\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?resize=522%2C203&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 16\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?w=522&amp;ssl=1 522w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-16.png?resize=300%2C117&amp;ssl=1 300w\" sizes=\"(max-width: 522px) 100vw, 522px\" data-recalc-dims=\"1\" width=\"522\" height=\"203\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175161\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?resize=699%2C711&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 17\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?w=699&amp;ssl=1 699w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-17.png?resize=295%2C300&amp;ssl=1 295w\" sizes=\"(max-width: 699px) 100vw, 699px\" data-recalc-dims=\"1\" width=\"699\" height=\"711\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175162\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?resize=503%2C269&amp;ssl=1\" alt=\"Communication Systems Class 12 Notes Chapter 15 Img 18\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?w=503&amp;ssl=1 503w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Communication-Systems-Class-12-Notes-Chapter-15-Img-18.png?resize=300%2C160&amp;ssl=1 300w\" sizes=\"(max-width: 503px) 100vw, 503px\" data-recalc-dims=\"1\" width=\"503\" height=\"269\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>Communication System Physics Class 12 Chapter 15</strong>"
+  },
+  {
+   "notes": "Communication System Physics Class 12 Chapter 15"
+  },
+  {
+   "notes": "<strong>11.</strong> Types of pulse modulation<br>\n(i) PAM (Pulse Amplitude Modulation) (ii) PDM (Pulse Duration Modulation)<br>\n(iii) PPM (Pulse Position Modulation) (iv) PCM (Pulse Code Modulation)<br>\n<strong>12. Internet</strong> It is a network of computers, printers disk drives or other devices, connected in a network topology that allows the device to communicate.<br>\n<strong>13. Local Area Network</strong> In is a group of computers and associated devices that share a common communication line or wireless link. Typically, connected device share the resources of a single processor or server within a small geographic area.<br>\n<strong>14. Wide Area Network</strong> A Wide Area Network (WAN) is a network that covers a broad area (i. e. any tele-communications network that links across metropolitan, regional, national or international boundaries) using leased telecommunication lines.<br>\n<strong>15. Client Computer</strong> Every computer that extracts information from a server is called a client computer.<br>\n<strong>16. Webpage</strong> A hypertext document connected to the world wide area is known as webpage. It may contain text, videos, etc.<br>\n<strong>17. Website</strong> A location connected to the internet that maintains one or more web pages.<br>\n<strong>18. Internet Service Providers</strong> An Internet Service Provider (ISP) is an organisation that provide services for accessing using or participating in the internet.<br>\n<strong>19.</strong> People use internet for many purposes like searching and viewing information on any topic of interest for sending electronic mails, for e-banking, e-shopping, e-booking, etc.<br>\n<strong>20. Electronic mail</strong> Electronic mail is the exchange of computer-stored messages by telecommunication.<br>\n<strong>21. Mobile telephony</strong> is the provision of telephone services to phones which may move around freely rather than stay fixed in one location. Mobile phones connect to a terrestrial cellular network of base stations, whereas satellite phones connect to orbiting satellites.<br>\n<strong>22.</strong> A cellular network or mobile network is a wireless network distributed over land areas called class, each served by at least one fixed location transceiver, known as a cell site or base station.<br>\n<strong>23.</strong> All network related works including handling of all the incoming and outgoing calls are managed by a central control room called Mobile.&nbsp;<strong>Telephone Switching Office (MTSO)</strong><br>\n<strong>24.</strong> A telephone numbering plan is a type of numbering schemes used in telecommunication to assign telephone numbers to subscriber telephones or other telephony endpoints.<br>\n<strong>25.</strong> 1G is the first generation of mobile network which are based on analog radio signal.<br>\n2 G is based on narrow band digital signal. 3 G is the increased data transfer speed.<br>\n4 G is provide a high-speed internet facility.<br>\n<strong>26. Global positioning</strong> system is a space based satellite navigation system that provides location and time information in all weather conditions.<br>\n<strong>27.</strong> Twelve number of satellites is required for correct and accurate location indentification in the global positioning system."
+  },
+  {
+   "notes": "11."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "12. Internet"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "13. Local Area Network"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "14. Wide Area Network"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "15. Client Computer"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "16. Webpage"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "17. Website"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "18. Internet Service Providers"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "19."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "20. Electronic mail"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "21. Mobile telephony"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "22."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "23."
+  },
+  {
+   "notes": "Telephone Switching Office (MTSO)"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "24."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "25."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "26. Global positioning"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "27."
+  },
+  {
+   "notes": "<a title=\"CBSE Notes\" href=\"https://www.cbselabs.com/cbse-notes/\">CBSE Notes</a>"
+  },
+  {
+   "notes": "CBSE Notes"
+  },
+  {
+   "notes": "<a title=\"CBSE Notes for Class 12 Physics\" href=\"https://www.cbselabs.com/cbse-notes-class-12-physics/\">Class 12 Physics Notes</a>"
+  },
+  {
+   "notes": "Class 12 Physics Notes"
+  }
+ ]
+}

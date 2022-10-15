@@ -1,0 +1,823 @@
+{
+ "physics_notes": [
+  {
+   "notes": "<a href=\"https://www.cbselabs.com/cbse-notes-class-12-physics/\">Class 12 Physics Notes</a> students can refer to the Semiconductor Electronic: Material, Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 https://www.cbselabs.com/semiconductor-electronics-materials-devices-simple-circuits-cbse-notes-class-12-physics/ Pdf here. They can also access the CBSE Class 12 Semiconductor Electronic: Material, Devices And Simple Circuits Chapter 14 Notes while gearing up for their Board exams."
+  },
+  {
+   "notes": "Class 12 Physics Notes"
+  },
+  {
+   "notes": "Semiconductor Electronic: Material, Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14"
+  },
+  {
+   "notes": "<strong>Semiconductor Class 12 Chapter 14</strong>"
+  },
+  {
+   "notes": "Semiconductor Class 12 Chapter 14"
+  },
+  {
+   "notes": "<strong>1. Metals</strong> They possess very low resistivity or high conductivity.<br>\nρ ~ 10<sup>-2</sup>.10<sup>-8</sup> Ωm, σ ~10<sup>2</sup>. 108 Sm<sup>-1</sup><br>\n<strong>2. Semiconductors</strong> They have resistivity or conductivity intermediate to metals and insulators.<br>\nρ ~ 10<sup>-5</sup>. 10<sup>6</sup> Ωm, σ ~ 10<sup>+5&nbsp;</sup>.10<sup>-6&nbsp;</sup>Sm<sup>-1</sup><br>\n<strong>Types of Semiconductors</strong> Types of semiconductors are given below:<br>\n<strong>(i) Elements Semiconductors</strong> These semiconductors are available in natural form, e.g. silicon and germanium.<br>\n<strong>(ii) Compound Semiconductors</strong> These semiconductors are made by compounding the metals, e.g. CdS, GaAs, CdSe, InP, anthracene, polyaniline, etc.<br>\n<strong>3. Insulators</strong> They have high resistivity or low conductivity.<br>\nρ ~ 10<sup>11</sup> . 10<sup>19</sup> Ωm, σ ~ 10<sup>-11</sup>. 10<sup>-19</sup> Sm<sup>-1</sup><br>\n<strong>4. Energy Band</strong> In a crystal due to interatomic interaction, valence electrons of one atom are shared by more than one atom in the crystal. Now, splitting of energy level takes place. The collection of these closely spaced energy levels are called an energy band."
+  },
+  {
+   "notes": "1. Metals"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "-2"
+  },
+  {
+   "notes": "-8"
+  },
+  {
+   "notes": "2"
+  },
+  {
+   "notes": "-1"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "2. Semiconductors"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "-5"
+  },
+  {
+   "notes": "6"
+  },
+  {
+   "notes": "+5&nbsp;"
+  },
+  {
+   "notes": "-6&nbsp;"
+  },
+  {
+   "notes": "-1"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "Types of Semiconductors"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Elements Semiconductors"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Compound Semiconductors"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "3. Insulators"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "11"
+  },
+  {
+   "notes": "19"
+  },
+  {
+   "notes": "-11"
+  },
+  {
+   "notes": "-19"
+  },
+  {
+   "notes": "-1"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "4. Energy Band"
+  },
+  {
+   "notes": "<strong>Semiconductor Notes Chapter 14 Class 12</strong>"
+  },
+  {
+   "notes": "Semiconductor Notes Chapter 14 Class 12"
+  },
+  {
+   "notes": "<strong>5. Valence Band</strong> Valence band are the energy band which includes the energy levels of the valence electrons.<br>\n<strong>6. Conduction Band</strong> Conduction band is the energy band above the valence band.<br>\n<strong>7. Energy Band Gap</strong> The minimum energy required for shifting electrons from valence band to conduction band is called energy band gap (E<sub>g&nbsp;</sub>).<br>\n<strong>8.</strong> Differences between conductor, insulator and semiconductor on the basis of energy bands are given below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175123 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?resize=608%2C339&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 1\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?w=608&amp;ssl=1 608w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?resize=300%2C167&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 608px) 100vw, 608px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?resize=608%2C339&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"608\" height=\"339\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175123\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?resize=608%2C339&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 1\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?w=608&amp;ssl=1 608w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?resize=300%2C167&amp;ssl=1 300w\" sizes=\"(max-width: 608px) 100vw, 608px\" data-recalc-dims=\"1\" width=\"608\" height=\"339\"></noscript><br>\n<strong>9. Fermi Energy</strong> It is the maximum possible energy possessed by free electrons of a material at absolute zero temperature (i.e. 0K)<br>\n<strong>10.</strong> On the basis of purity , semiconductors are of two types:<br>\n<strong>(i) Intrinsic Semiconductors</strong> It is a pure semiconductor without any significant dopant species present<br>\nn<sub>e&nbsp;</sub> = n<sub>h&nbsp;</sub>=n<sub>i&nbsp;</sub><br>\nwhere , n<sub>e</sub> and n<sub>h</sub> are number densities of electrons and holes respectively and n<sub>i&nbsp;</sub> is called intrinsic carrier concentration.<br>\nAn intrinsic semiconductor is also called an undoped semiconductor or i-type semiconductor<br>\n<strong>(ii) Extrinsic Semiconductors</strong> Pure semiconductor when doped with the impurity, it is known as extrinsic semiconductor.<br>\nExtrinsic semiconductors are basically of two types: (a) n-type semiconductors<br>\n(b) p-type semiconductors"
+  },
+  {
+   "notes": "5. Valence Band"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "6. Conduction Band"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "7. Energy Band Gap"
+  },
+  {
+   "notes": "g&nbsp;"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "8."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175123\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?resize=608%2C339&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 1\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?w=608&amp;ssl=1 608w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-1.png?resize=300%2C167&amp;ssl=1 300w\" sizes=\"(max-width: 608px) 100vw, 608px\" data-recalc-dims=\"1\" width=\"608\" height=\"339\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "9. Fermi Energy"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "10."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Intrinsic Semiconductors"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "e&nbsp;"
+  },
+  {
+   "notes": "h&nbsp;"
+  },
+  {
+   "notes": "i&nbsp;"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "e"
+  },
+  {
+   "notes": "h"
+  },
+  {
+   "notes": "i&nbsp;"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Extrinsic Semiconductors"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>Semiconductor Class 12 Notes Chapter 14</strong>"
+  },
+  {
+   "notes": "Semiconductor Class 12 Notes Chapter 14"
+  },
+  {
+   "notes": "<strong>NOTE:</strong> Both the type of semiconductors are electrically neutral.<br>\n<strong>11. In n-type semiconductor</strong>, majority charge carriers are electrons and minority charge carriers are holes, i.e. n<sub>e</sub>&gt; n<sub>h&nbsp;</sub>.<br>\nHere, we dope Si or Ge with a pentavalent element, then four of its electrons bond with the four silicon neighbours, while fifth remains very weakly bound to its parent atom.<br>\nFormation of n-type semiconductor is shown below:<br>\n<strong><img loading=\"lazy\" class=\"alignnone size-full wp-image-175124 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=382%2C265&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 2\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?w=382&amp;ssl=1 382w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=300%2C208&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 382px) 100vw, 382px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=382%2C265&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"382\" height=\"265\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175124\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=382%2C265&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 2\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?w=382&amp;ssl=1 382w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=300%2C208&amp;ssl=1 300w\" sizes=\"(max-width: 382px) 100vw, 382px\" data-recalc-dims=\"1\" width=\"382\" height=\"265\"></noscript><br>\nSemiconductors Class 12 Notes Chapter 14</strong>"
+  },
+  {
+   "notes": "NOTE:"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "11. In n-type semiconductor"
+  },
+  {
+   "notes": "e"
+  },
+  {
+   "notes": "h&nbsp;"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175124 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=382%2C265&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 2\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?w=382&amp;ssl=1 382w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=300%2C208&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 382px) 100vw, 382px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=382%2C265&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"382\" height=\"265\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175124\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=382%2C265&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 2\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?w=382&amp;ssl=1 382w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=300%2C208&amp;ssl=1 300w\" sizes=\"(max-width: 382px) 100vw, 382px\" data-recalc-dims=\"1\" width=\"382\" height=\"265\"></noscript><br>\nSemiconductors Class 12 Notes Chapter 14"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175124\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=382%2C265&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 2\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?w=382&amp;ssl=1 382w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-2.png?resize=300%2C208&amp;ssl=1 300w\" sizes=\"(max-width: 382px) 100vw, 382px\" data-recalc-dims=\"1\" width=\"382\" height=\"265\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>12. In p-type semiconductor</strong>, majority charge carriers are holes and minority charge carriers are eletron i.e. n<sub>h&nbsp;</sub> &gt; n<sub>e&nbsp;</sub>.<br>\nIn a p-type semiconductor, doping is done with trivalent impurity atoms, i.e. those atoms which have three valence electrons in their valence shell.<br>\nFormation of p-type semiconductor is shown below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175125 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?resize=394%2C287&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 3\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?w=394&amp;ssl=1 394w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?resize=300%2C219&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 394px) 100vw, 394px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?resize=394%2C287&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"394\" height=\"287\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175125\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?resize=394%2C287&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 3\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?w=394&amp;ssl=1 394w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?resize=300%2C219&amp;ssl=1 300w\" sizes=\"(max-width: 394px) 100vw, 394px\" data-recalc-dims=\"1\" width=\"394\" height=\"287\"></noscript><br>\n<strong>13.</strong> At equilibrium condition, n<sub>e&nbsp;</sub>n<sub>h&nbsp;</sub>= n<sub>i</sub><sup>2</sup><br>\n<strong>14.</strong> Minimum energy required to create a hole-electron pair, hv &gt; E<sub>g&nbsp;</sub> where, E<sub>g&nbsp;</sub> is energy band gap."
+  },
+  {
+   "notes": "12. In p-type semiconductor"
+  },
+  {
+   "notes": "h&nbsp;"
+  },
+  {
+   "notes": "e&nbsp;"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175125\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?resize=394%2C287&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 3\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?w=394&amp;ssl=1 394w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-3.png?resize=300%2C219&amp;ssl=1 300w\" sizes=\"(max-width: 394px) 100vw, 394px\" data-recalc-dims=\"1\" width=\"394\" height=\"287\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "13."
+  },
+  {
+   "notes": "e&nbsp;"
+  },
+  {
+   "notes": "h&nbsp;"
+  },
+  {
+   "notes": "i"
+  },
+  {
+   "notes": "2"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "14."
+  },
+  {
+   "notes": "g&nbsp;"
+  },
+  {
+   "notes": "g&nbsp;"
+  },
+  {
+   "notes": "<strong>Semiconductors Class 12 Chapter 14</strong>"
+  },
+  {
+   "notes": "Semiconductors Class 12 Chapter 14"
+  },
+  {
+   "notes": "<strong>15.</strong> Electric current, I = eA(n<sub>e</sub>v<sub>e</sub> + n<sub>h</sub>v<sub>h</sub>) where, A is area of cross-section.<br>\nwhere, v<sub>e&nbsp;</sub>and v<sub>h</sub> are speed of electron and hole respectively.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175126 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?resize=376%2C232&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 4\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?w=376&amp;ssl=1 376w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?resize=300%2C185&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 376px) 100vw, 376px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?resize=376%2C232&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"376\" height=\"232\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175126\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?resize=376%2C232&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 4\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?w=376&amp;ssl=1 376w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?resize=300%2C185&amp;ssl=1 300w\" sizes=\"(max-width: 376px) 100vw, 376px\" data-recalc-dims=\"1\" width=\"376\" height=\"232\"></noscript><br>\n<strong>18. p-n Junction</strong> A p-n junction is an arrangement made by a close contact of n-type semiconductor and p-type semiconductor.<br>\n<strong>19. Formation of Depletion Region in p-n Junction</strong> During formation of p-n junction, due to the concentration gradient across p and n sides, holes diffuse from p-side to n-side (p —&gt; n) and electrons diffuse from n-side to p-side (n —&gt; p).<br>\nThis space charge region on either side of the junction together is known as depletion region.<br>\nDepletion region is free from mobile charge carriers. Width of depletion region is of the order of 10<sup>-6&nbsp;</sup>m. The potential difference developed across the depletion region is called the potential barrier.<br>\n<strong><img loading=\"lazy\" class=\"alignnone size-full wp-image-175127 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-5.png?resize=290%2C185&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 5\" data-recalc-dims=\"1\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-5.png?resize=290%2C185&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"290\" height=\"185\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175127\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-5.png?resize=290%2C185&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 5\" data-recalc-dims=\"1\" width=\"290\" height=\"185\"></noscript><br>\nClass 12 Semiconductor Notes Chapter 14</strong>"
+  },
+  {
+   "notes": "15."
+  },
+  {
+   "notes": "e"
+  },
+  {
+   "notes": "e"
+  },
+  {
+   "notes": "h"
+  },
+  {
+   "notes": "h"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "e&nbsp;"
+  },
+  {
+   "notes": "h"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175126\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?resize=376%2C232&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 4\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?w=376&amp;ssl=1 376w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-4.png?resize=300%2C185&amp;ssl=1 300w\" sizes=\"(max-width: 376px) 100vw, 376px\" data-recalc-dims=\"1\" width=\"376\" height=\"232\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "18. p-n Junction"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "19. Formation of Depletion Region in p-n Junction"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "-6&nbsp;"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175127 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-5.png?resize=290%2C185&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 5\" data-recalc-dims=\"1\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-5.png?resize=290%2C185&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"290\" height=\"185\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175127\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-5.png?resize=290%2C185&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 5\" data-recalc-dims=\"1\" width=\"290\" height=\"185\"></noscript><br>\nClass 12 Semiconductor Notes Chapter 14"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175127\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-5.png?resize=290%2C185&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 5\" data-recalc-dims=\"1\" width=\"290\" height=\"185\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>20. Semiconductor Diode/p-n Junction Diode A</strong> semiconductor diode is basically a p-n junction with metallic contacts provided at the ends for the application of an external voltage.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175128 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?resize=448%2C27&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 6\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?w=448&amp;ssl=1 448w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?resize=300%2C18&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 448px) 100vw, 448px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?resize=448%2C27&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"448\" height=\"27\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175128\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?resize=448%2C27&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 6\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?w=448&amp;ssl=1 448w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?resize=300%2C18&amp;ssl=1 300w\" sizes=\"(max-width: 448px) 100vw, 448px\" data-recalc-dims=\"1\" width=\"448\" height=\"27\"></noscript><br>\nThe direction of arrow indicates the conventional direction of current (when the diode is under forward bias).<br>\n<strong>21.</strong> The graphical relations between voltage applied across p-n junction and current flowing through the junction are called<strong> I-V characteristics of junction diode.</strong><br>\n<strong>22.</strong> (i) Junction diode is said to be forward bias when the positive terminal of the external<br>\nbattery is connected less to the p-side and negative terminal to the n-side of the diode. The circuit diagram and I-V characteristics of a forward biased diode is shown below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175129 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?resize=372%2C270&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 7\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?w=372&amp;ssl=1 372w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?resize=300%2C218&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 372px) 100vw, 372px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?resize=372%2C270&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"372\" height=\"270\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175129\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?resize=372%2C270&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 7\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?w=372&amp;ssl=1 372w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?resize=300%2C218&amp;ssl=1 300w\" sizes=\"(max-width: 372px) 100vw, 372px\" data-recalc-dims=\"1\" width=\"372\" height=\"270\"></noscript><br>\nThe circuit diagram and I-V characteristics of a reverse biased diode is shown below.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175130 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?resize=393%2C236&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 8\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?w=393&amp;ssl=1 393w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?resize=300%2C180&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 393px) 100vw, 393px\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?resize=393%2C236&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"393\" height=\"236\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175130\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?resize=393%2C236&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 8\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?w=393&amp;ssl=1 393w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?resize=300%2C180&amp;ssl=1 300w\" sizes=\"(max-width: 393px) 100vw, 393px\" data-recalc-dims=\"1\" width=\"393\" height=\"236\"></noscript><br>\n<strong>23.</strong> The DC resistance of a junction diode,<br>\nr<sub>DC</sub>&nbsp;= V/I<br>\n<strong>24.</strong> The dynamic resistance of junction diode,<br>\nr<sub>AC</sub> = ∆V/∆I"
+  },
+  {
+   "notes": "20. Semiconductor Diode/p-n Junction Diode A"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175128\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?resize=448%2C27&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 6\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?w=448&amp;ssl=1 448w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-6.png?resize=300%2C18&amp;ssl=1 300w\" sizes=\"(max-width: 448px) 100vw, 448px\" data-recalc-dims=\"1\" width=\"448\" height=\"27\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "21."
+  },
+  {
+   "notes": " I-V characteristics of junction diode."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "22."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175129\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?resize=372%2C270&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 7\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?w=372&amp;ssl=1 372w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-7.png?resize=300%2C218&amp;ssl=1 300w\" sizes=\"(max-width: 372px) 100vw, 372px\" data-recalc-dims=\"1\" width=\"372\" height=\"270\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175130\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?resize=393%2C236&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 8\" srcset=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?w=393&amp;ssl=1 393w, https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-8.png?resize=300%2C180&amp;ssl=1 300w\" sizes=\"(max-width: 393px) 100vw, 393px\" data-recalc-dims=\"1\" width=\"393\" height=\"236\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "23."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "DC"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "24."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "AC"
+  },
+  {
+   "notes": "<strong>Semiconductor Notes Class 12 Chapter 14</strong>"
+  },
+  {
+   "notes": "Semiconductor Notes Class 12 Chapter 14"
+  },
+  {
+   "notes": "<strong>25. Diode as Rectifier</strong> The process of converting alternating voltage/current into direct voltage/current is called rectification. Diode is used as a rectifier for converting alternating current/voltage into direct current/voltage.<br>\nThere are two ways of using a diode as a rectifier i.e.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175131 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-9.png?resize=239%2C199&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 9\" data-recalc-dims=\"1\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-9.png?resize=239%2C199&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"239\" height=\"199\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175131\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-9.png?resize=239%2C199&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 9\" data-recalc-dims=\"1\" width=\"239\" height=\"199\"></noscript><br>\n<strong>(i) Diode as a Half-Wave Rectifier</strong> Diode conducts corresponding to positive half cycle and does not conduct during negative half cycle. Hence, AC is converted by diode into unidirectional pulsating DC. This action is known as half-wave rectification.<br>\nCircuit diagram of p-n junction diode as half-wave rectifier is shown below:<br>\nThe input and output wave forms have been given below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175132 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-10.png?resize=235%2C252&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 10\" data-recalc-dims=\"1\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-10.png?resize=235%2C252&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"235\" height=\"252\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175132\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-10.png?resize=235%2C252&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 10\" data-recalc-dims=\"1\" width=\"235\" height=\"252\"></noscript><br>\n<strong>(ii) Diode as a Full-Wave Rectifier</strong> In the full-wave rectifier, two p-n junction diodes, D<sub>1&nbsp;</sub>and D<sub>2</sub> are used. The circuit diagram or full-wave rectifier is shown below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175133 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?resize=412%2C215&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 11\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?w=412&amp;ssl=1 412w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?resize=300%2C157&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 412px) 100vw, 412px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?resize=412%2C215&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"412\" height=\"215\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175133\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?resize=412%2C215&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 11\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?w=412&amp;ssl=1 412w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?resize=300%2C157&amp;ssl=1 300w\" sizes=\"(max-width: 412px) 100vw, 412px\" data-recalc-dims=\"1\" width=\"412\" height=\"215\"></noscript><br>\nThe input and output wave forms have been given below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175134 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?resize=494%2C272&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 12\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?w=494&amp;ssl=1 494w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?resize=300%2C165&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 494px) 100vw, 494px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?resize=494%2C272&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"494\" height=\"272\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175134\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?resize=494%2C272&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 12\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?w=494&amp;ssl=1 494w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?resize=300%2C165&amp;ssl=1 300w\" sizes=\"(max-width: 494px) 100vw, 494px\" data-recalc-dims=\"1\" width=\"494\" height=\"272\"></noscript><br>\nIts working based on the principle that junction diode offer very low resistance in forward bias and very high resistance in reverse bias."
+  },
+  {
+   "notes": "25. Diode as Rectifier"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175131\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-9.png?resize=239%2C199&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 9\" data-recalc-dims=\"1\" width=\"239\" height=\"199\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Diode as a Half-Wave Rectifier"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175132\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-10.png?resize=235%2C252&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 10\" data-recalc-dims=\"1\" width=\"235\" height=\"252\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Diode as a Full-Wave Rectifier"
+  },
+  {
+   "notes": "1&nbsp;"
+  },
+  {
+   "notes": "2"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175133\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?resize=412%2C215&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 11\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?w=412&amp;ssl=1 412w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-11.png?resize=300%2C157&amp;ssl=1 300w\" sizes=\"(max-width: 412px) 100vw, 412px\" data-recalc-dims=\"1\" width=\"412\" height=\"215\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175134\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?resize=494%2C272&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 12\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?w=494&amp;ssl=1 494w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-12.png?resize=300%2C165&amp;ssl=1 300w\" sizes=\"(max-width: 494px) 100vw, 494px\" data-recalc-dims=\"1\" width=\"494\" height=\"272\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>Semiconductor Electronics Class 12 Notes Chapter 14</strong>"
+  },
+  {
+   "notes": "Semiconductor Electronics Class 12 Notes Chapter 14"
+  },
+  {
+   "notes": "<strong>26.</strong> The average value or DC value obtained from a half-wave rectifier,<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175135 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?resize=575%2C242&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 13\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?w=575&amp;ssl=1 575w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?resize=300%2C126&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 575px) 100vw, 575px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?resize=575%2C242&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"575\" height=\"242\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175135\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?resize=575%2C242&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 13\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?w=575&amp;ssl=1 575w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?resize=300%2C126&amp;ssl=1 300w\" sizes=\"(max-width: 575px) 100vw, 575px\" data-recalc-dims=\"1\" width=\"575\" height=\"242\"></noscript><br>\n<strong>27.</strong> The average value or DC value obtained from a full-wave rectifier,<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175136 jetpack-lazy-image\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-14.png?resize=106%2C43&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 14\" data-recalc-dims=\"1\" data-lazy-src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-14.png?resize=106%2C43&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"106\" height=\"43\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175136\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-14.png?resize=106%2C43&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 14\" data-recalc-dims=\"1\" width=\"106\" height=\"43\"></noscript><br>\n<strong>28.</strong> The pulse frequency of a half-wave rectifier is equal to frequency of AC.<br>\n<strong>29.</strong> The pulse frequency of a full-wave rectifier is double to that of AC."
+  },
+  {
+   "notes": "26."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175135\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?resize=575%2C242&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 13\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?w=575&amp;ssl=1 575w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-13.png?resize=300%2C126&amp;ssl=1 300w\" sizes=\"(max-width: 575px) 100vw, 575px\" data-recalc-dims=\"1\" width=\"575\" height=\"242\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "27."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175136\" src=\"https://i2.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-14.png?resize=106%2C43&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 14\" data-recalc-dims=\"1\" width=\"106\" height=\"43\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "28."
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "29."
+  },
+  {
+   "notes": "<strong>Notes Of Semiconductor Class 12 Chapter 14</strong>"
+  },
+  {
+   "notes": "Notes Of Semiconductor Class 12 Chapter 14"
+  },
+  {
+   "notes": "<strong>30. Optoelectronic Devices</strong> Semiconductor diodes in which carriers are generated by photons, i.e. photo-excitation, such devices are known as optoelectronic devices.<br>\nThese are as follows:<br>\n<strong>(i) Light Emitting Diode (LED)</strong> It is a heavily doped p-n junction diode which converts electrical energy into light energy.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175137 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?resize=458%2C279&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 15\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?w=458&amp;ssl=1 458w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?resize=300%2C183&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 458px) 100vw, 458px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?resize=458%2C279&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"458\" height=\"279\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175137\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?resize=458%2C279&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 15\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?w=458&amp;ssl=1 458w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?resize=300%2C183&amp;ssl=1 300w\" sizes=\"(max-width: 458px) 100vw, 458px\" data-recalc-dims=\"1\" width=\"458\" height=\"279\"></noscript><br>\nLEDs has the following advantages over conventional incandescent low power lamps<br>\n(a) Fast action and no warm up time required<br>\n(b) It is nearly monochromatic<br>\n(c) Low operational voltage and less power consumed<br>\n(d) Fast ON-OFF switching capability.<br>\n<strong>(ii) Photodiode</strong> A photodiode is a special type of junction diode used for detecting optical signals. It is a reverse biased p-n junction made from a photosensitive material. Its symbol is<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175138 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?resize=517%2C388&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 16\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?w=517&amp;ssl=1 517w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?resize=300%2C225&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 517px) 100vw, 517px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?resize=517%2C388&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"517\" height=\"388\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175138\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?resize=517%2C388&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 16\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?w=517&amp;ssl=1 517w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?resize=300%2C225&amp;ssl=1 300w\" sizes=\"(max-width: 517px) 100vw, 517px\" data-recalc-dims=\"1\" width=\"517\" height=\"388\"></noscript><br>\nIts V-I characteristics of photodiode are shown below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175139 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-17.png?resize=301%2C257&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 17\" data-recalc-dims=\"1\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-17.png?resize=301%2C257&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"301\" height=\"257\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175139\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-17.png?resize=301%2C257&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 17\" data-recalc-dims=\"1\" width=\"301\" height=\"257\"></noscript><br>\nWe observe from the figure that current in photodiode changes with the change in light intensity (I) when reverse bias is applied.<br>\n<strong>(iii) Solar</strong> Cell Solar cell is a p-n junction diode which converts solar energy into electrical energy. Its symbol is<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175140 jetpack-lazy-image\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?resize=564%2C441&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 18\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?w=564&amp;ssl=1 564w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?resize=300%2C235&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 564px) 100vw, 564px\" data-lazy-src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?resize=564%2C441&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"564\" height=\"441\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175140\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?resize=564%2C441&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 18\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?w=564&amp;ssl=1 564w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?resize=300%2C235&amp;ssl=1 300w\" sizes=\"(max-width: 564px) 100vw, 564px\" data-recalc-dims=\"1\" width=\"564\" height=\"441\"></noscript><br>\nV-I characteristics of solar cell are shown below:<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175141 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-19.png?resize=267%2C158&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 19\" data-recalc-dims=\"1\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-19.png?resize=267%2C158&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"267\" height=\"158\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175141\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-19.png?resize=267%2C158&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 19\" data-recalc-dims=\"1\" width=\"267\" height=\"158\"></noscript><br>\nThe materials used for solar cell are Si and GaAs."
+  },
+  {
+   "notes": "30. Optoelectronic Devices"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(i) Light Emitting Diode (LED)"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175137\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?resize=458%2C279&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 15\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?w=458&amp;ssl=1 458w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-15.png?resize=300%2C183&amp;ssl=1 300w\" sizes=\"(max-width: 458px) 100vw, 458px\" data-recalc-dims=\"1\" width=\"458\" height=\"279\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(ii) Photodiode"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175138\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?resize=517%2C388&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 16\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?w=517&amp;ssl=1 517w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-16.png?resize=300%2C225&amp;ssl=1 300w\" sizes=\"(max-width: 517px) 100vw, 517px\" data-recalc-dims=\"1\" width=\"517\" height=\"388\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175139\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-17.png?resize=301%2C257&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 17\" data-recalc-dims=\"1\" width=\"301\" height=\"257\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "(iii) Solar"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175140\" src=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?resize=564%2C441&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 18\" srcset=\"https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?w=564&amp;ssl=1 564w, https://i0.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-18.png?resize=300%2C235&amp;ssl=1 300w\" sizes=\"(max-width: 564px) 100vw, 564px\" data-recalc-dims=\"1\" width=\"564\" height=\"441\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175141\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-19.png?resize=267%2C158&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 19\" data-recalc-dims=\"1\" width=\"267\" height=\"158\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<strong>Semiconductor Class 12 Notes Pdf Chapter 14</strong>"
+  },
+  {
+   "notes": "Semiconductor Class 12 Notes Pdf Chapter 14"
+  },
+  {
+   "notes": "<strong>31. Zener Diode</strong> Zener diode is a reverse biased heavily doped p-n junction diode. It is operated in breakdown region.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175142 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?resize=473%2C222&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 20\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?w=473&amp;ssl=1 473w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?resize=300%2C141&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 473px) 100vw, 473px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?resize=473%2C222&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"473\" height=\"222\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175142\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?resize=473%2C222&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 20\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?w=473&amp;ssl=1 473w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?resize=300%2C141&amp;ssl=1 300w\" sizes=\"(max-width: 473px) 100vw, 473px\" data-recalc-dims=\"1\" width=\"473\" height=\"222\"></noscript><br>\n<strong>32. Zener Diode as a Voltage Regulator</strong> When the applied reverse voltage (V) reaches the breakdown voltage (V<sub>z</sub>) of the Zener diode there is a large change in the current. So, after the breakdown voltage V<sub>z</sub>, a large change in the current can be produced by almost insignificant change in the reverse bias voltage i.e. Zener voltage remains constant even though the current through the Zener diode varies over a wide range. The circuital arrangement is shown as follows.<br>\n<img loading=\"lazy\" class=\"alignnone size-full wp-image-175143 jetpack-lazy-image\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?resize=364%2C241&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 21\" data-recalc-dims=\"1\" data-lazy-srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?w=364&amp;ssl=1 364w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?resize=300%2C199&amp;ssl=1 300w\" data-lazy-sizes=\"(max-width: 364px) 100vw, 364px\" data-lazy-src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?resize=364%2C241&amp;is-pending-load=1#038;ssl=1\" srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" width=\"364\" height=\"241\"><noscript><img loading=\"lazy\" class=\"alignnone size-full wp-image-175143\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?resize=364%2C241&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 21\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?w=364&amp;ssl=1 364w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?resize=300%2C199&amp;ssl=1 300w\" sizes=\"(max-width: 364px) 100vw, 364px\" data-recalc-dims=\"1\" width=\"364\" height=\"241\"></noscript>"
+  },
+  {
+   "notes": "31. Zener Diode"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175142\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?resize=473%2C222&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 20\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?w=473&amp;ssl=1 473w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-20.png?resize=300%2C141&amp;ssl=1 300w\" sizes=\"(max-width: 473px) 100vw, 473px\" data-recalc-dims=\"1\" width=\"473\" height=\"222\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "32. Zener Diode as a Voltage Regulator"
+  },
+  {
+   "notes": "z"
+  },
+  {
+   "notes": "z"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<img loading=\"lazy\" class=\"alignnone size-full wp-image-175143\" src=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?resize=364%2C241&amp;ssl=1\" alt=\"Semiconductor Electronic Material Devices And Simple Circuits Class 12 Notes Class 12 Notes Chapter 14 Img 21\" srcset=\"https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?w=364&amp;ssl=1 364w, https://i1.wp.com/www.cbselabs.com/wp-content/uploads/2022/05/Semiconductor-Electronic-Material-Devices-And-Simple-Circuits-Class-12-Notes-Class-12-Notes-Chapter-14-Img-21.png?resize=300%2C199&amp;ssl=1 300w\" sizes=\"(max-width: 364px) 100vw, 364px\" data-recalc-dims=\"1\" width=\"364\" height=\"241\">"
+  },
+  {
+   "notes": ""
+  },
+  {
+   "notes": "<a title=\"CBSE Notes\" href=\"https://www.cbselabs.com/cbse-notes/\">CBSE Notes</a>"
+  },
+  {
+   "notes": "CBSE Notes"
+  },
+  {
+   "notes": "<a title=\"CBSE Notes for Class 12 Physics\" href=\"https://www.cbselabs.com/cbse-notes-class-12-physics/\">Class 12 Physics Notes</a>"
+  },
+  {
+   "notes": "Class 12 Physics Notes"
+  }
+ ]
+}
