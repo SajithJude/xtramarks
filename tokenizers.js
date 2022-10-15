@@ -5,7 +5,7 @@ class AutoTokenizer {
     static async fromPretrained(modelId, modelsPath) {
         const modelIdParts = modelId.split('/');
         const modelName = modelIdParts[modelIdParts.length - 1];
-        const url = `tokenizer.json`;
+        const url = `${modelsPath}/tokenizer.json`;
         const response = await fetch(url);
         const tokenizer = Tokenizer.fromConfig(await response.json());
         return tokenizer;
