@@ -1,7 +1,7 @@
 var flag = Boolean;
 
 function myFunction() {
-    location.replace("./generate.html")
+    location.replace("generate.html")
   }
 
   i = 0
